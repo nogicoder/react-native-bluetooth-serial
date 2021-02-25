@@ -34,11 +34,6 @@ RCT_EXPORT_MODULE();
     return self;
 }
 
-+ (BOOL) requiresMainQueueSetup
-{
-    return NO;
-}
-
 - (dispatch_queue_t)methodQueue
 {
     // run all module methods in main thread
