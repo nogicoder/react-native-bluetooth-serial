@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.homepage     = package['homepage']
   s.platform     = :ios, "9.0"
 
-  s.source       = { :git => "https://github.com/rusel1989/react-native-bluetooth-serial.git", :tag => "v#{s.version}" }
+  s.source       = { :git => "https://github.com/lucassouza16/react-native-bluetooth-serial.git", :tag => "v#{s.version}" }
   s.source_files  = "ios/**/*.{h,m}"
 
   s.dependency 'React'

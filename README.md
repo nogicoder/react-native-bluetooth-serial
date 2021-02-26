@@ -43,7 +43,7 @@ Officialy this library supports React Native >= 0.25, it may run on older versio
 ## Example
 As bluetooth is not available in any simulators, if you want to test it with some bluetooth peripherals you have
 to run the example on actual device.
-1. `git clone https://github.com/rusel1989/react-native-bluetooth-serial.git`
+1. `git clone https://github.com/lucassouza16/react-native-bluetooth-serial.git`
 2. `cd react-native-bluetooth-serial/BluetoothSerialExample`
 3. `npm i`
 4. `react-native run-ios/run-android`
