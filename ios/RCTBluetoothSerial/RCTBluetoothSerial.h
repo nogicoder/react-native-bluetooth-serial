@@ -6,6 +6,7 @@
 //  Copyright © 2016 Jakub Martyčák. All rights reserved.
 //
 
+#import <React/RCTBridge.h> 
 #import <React/RCTBridgeModule.h>
 #import <React/RCTEventDispatcher.h>
 
